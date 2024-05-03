@@ -1,3 +1,5 @@
+![imagen](TheBridge_logo.png)
+
 # 👋 Hola, soy @PassiNicole
 
 ## Sobre mí
