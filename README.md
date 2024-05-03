@@ -1,13 +1,23 @@
+# 👋 Hola, soy @PassiNicole
 
-- 👋 Hi, I’m @PassiNicole
-- 👀 I’m interested in research, technology and education
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Sobre mí
+- 👀 Estoy interesada en **investigación**, **tecnología** y **educación**.
+- 🌱 Actualmente estoy aprendiendo **Data Science**.
+- 🧭 Busco colaborar en proyectos que **impulsen el conocimiento** y la **innovación**.
+
+## Contacto
+- 📫 Puedes contactarme a través de LinkedIn
+- 😄 Pronombres: Ella
+- ⚡ Dato curioso: ¡Me encanta leer y disfruto de un buen café mientras programo!
+
+## Colaboraciones
+Estoy abierta a colaborar en proyectos relacionados con:
+- 📊 **Análisis de datos**
+- 🤖 **Realidad Virtual**
+- 🧑🏻‍💻 **Inteligencia Artificial**
+- 📚 **Tecnologías educativas**
 
 <!---
-PassiNicole/PassiNicole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+PassiNicole/PassiNicole es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
+Puedes hacer clic en el enlace de vista previa para echar un vistazo a tus cambios.
 --->
