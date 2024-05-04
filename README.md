@@ -1,6 +1,5 @@
-![imagen](TheBridge_logo.png)
-
 # 👋 Hola, soy @PassiNicole
+![imagen](OIG3.jpeg)
 
 ## Sobre mí
 - 👀 Estoy interesada en **investigación**, **tecnología** y **educación**.
